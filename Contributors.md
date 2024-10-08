@@ -86,6 +86,7 @@ Hi, it's me Saad (linkedin: https://www.linkedin.com/in/saad-ashraf-380715222/) 
 Thisarani Gunathilaka
 - Hi I'm Pratyusha
 - Namaste, I'm Lochan
+- This is Kantheepan my first open source contribution
   Hi I'm Maxi
 - Hi I'm Adam
 - Hi I'm Gauri
